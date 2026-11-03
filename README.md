@@ -7,7 +7,7 @@ This project is based on the popular Christmas game __Secret Santa__ where frien
 **Preview images** :small_red_triangle_down:
 <details>
 <summary>Some images of the application </summary> 
-
+**Test**
 * Welcome Page
 
 ![Welcome](https://github.com/NotTheBest/secretsanta-generator/blob/master/preview-images/welcomepage.png?raw=true)
